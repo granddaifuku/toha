@@ -3,7 +3,7 @@
 other = "ホーム"
 
 [posts]
-other = "記事"
+other = "投稿"
 
 [toc_heading]
 other = "目次"
@@ -15,7 +15,7 @@ other = "タグ"
 other = "カテゴリ"
 
 [resume]
-other = "職務経歴書"
+other = "履歴書"
 
 [navigation]
 other = "メニュー"
@@ -41,8 +41,8 @@ other = "メールアドレスを入力すると、このウェブサイトの�
 [submit]
 other = "登録"
 
-[hugoAttributionText]
-other = "搭載"
+# [hugoAttributionText]
+# other = "搭載"
 
 [prev]
 other = "前"
