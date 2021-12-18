@@ -83,8 +83,8 @@ other = "続きを見る"
 [show_less]
 other = "表示を減らす"
 
-# [responsibilities]
-# other = "Responsibilities:"
+[responsibilities]
+other = "業務内容："
 
 # [present]
 # other = "Present"
